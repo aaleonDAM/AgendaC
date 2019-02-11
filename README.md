@@ -1,4 +1,2 @@
 # AgendaC
-# Agenda para programacion
-#
-#
+Agenda para programacion
